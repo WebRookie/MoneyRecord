@@ -1,0 +1,1 @@
+<l-tab-bar list="{{list}}" text-color="#2c2c2c" text-selected-color="#d81e06" mut-bind:linchange="handleTabTap" />
